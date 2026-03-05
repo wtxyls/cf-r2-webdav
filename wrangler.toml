@@ -1,0 +1,12 @@
+name = "cf-r2-webdav"
+main = "src/index.ts"
+compatibility_date = "2026-03-05"
+
+[vars]
+USERNAME = "lrxyls"
+PASSWORD = "&#+WK+#:.j_DU-r6k-hP$YE0K}8]]Z"
+BUCKET_NAME = "moon"
+
+[[r2_buckets]]
+binding = "BUCKET"
+bucket_name = "moon"
